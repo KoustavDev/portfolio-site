@@ -103,11 +103,13 @@ export default function About() {
         </SparklesText>
         <div className="max-w-3xl mx-auto mb-12">
           <p className="text-lg mb-6 text-center">
-            As a passionate frontend developer, I specialize in creating
-            intuitive and responsive web applications. With a strong foundation
-            in modern JavaScript frameworks and a keen eye for design, I strive
-            to build seamless user experiences that blend functionality with
-            aesthetics.
+            I&#39;m a full-stack developer focused on building modern, scalable
+            web apps with clean architecture and great user experience. I work
+            with React, Next.js, and TypeScript on the frontend, and Node.js,
+            Express, and Appwrite on the backend. I enjoy crafting elegant UIs
+            with Tailwind CSS, ShadCN UI, and Magic UI, and I&#39;m actively
+            exploring AI integration and cloud-native solutions to build
+            production-ready software.
           </p>
         </div>
 

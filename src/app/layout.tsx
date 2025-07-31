@@ -8,8 +8,9 @@ import { Toaster } from "@/components/ui/sonner";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Your Portfolio",
-  description: "A showcase of my work and skills",
+  title: "Koustav Majhi | Full-Stack Developer",
+  description:
+    "Hi, I'm Koustav Majhi — a passionate full-stack developer building modern web apps with React, Next.js, Node.js, and more. Explore my projects, tech blogs, and let's connect!",
 };
 
 export default function RootLayout({

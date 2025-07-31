@@ -42,7 +42,7 @@ export const projects = [
   {
     title: "Music Mania - Landing Page",
     description:
-      "Music Mania — a beautifully crafted landing page for a music learning organization. This project blends aesthetic design and modern web technologies to create a visually stunning and responsive user experience.",
+      "Music Mania — a beautifully crafted landing page for a music learning organization. This project blends aesthetic design and modern web technologies to create a visually stunning, responsive, and interactive user experience with smooth animations, clean layout, and intuitive navigation.",
     image: "/images/projects/Music-Mania.png",
     techStack: [
       "React",
@@ -79,8 +79,7 @@ export const projects = [
     title: "Bridal Parlour - Landing Page",
     description:
       "A stunning, responsive bridal parlour landing page built with HTML and CSS, showcasing services, testimonials, and contact details to create a captivating, user-friendly online presence for clients.",
-    image:
-      "/images/projects/bridal.png",
+    image: "/images/projects/bridal.png",
     techStack: ["HTML", "CSS"],
     demoLink: "https://bridal-parlour-koustav-ych.netlify.app",
     githubLink: "https://github.com/KoustavDev/bridal-parlour-koustav-ych",
